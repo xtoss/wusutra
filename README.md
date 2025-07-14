@@ -1,8 +1,6 @@
-# Base44 App
+# Personal App
 
-
-This app was created automatically by Base44.
-It's a Vite+React app that communicates with the Base44 API.
+It's a Vite+React app
 
 ## Running the app
 
